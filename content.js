@@ -17,7 +17,7 @@ CURRENTLY: Building AnomalyVM, a static hosted alpine virtual machine.
 
 PROJECT: AnomalyVM
 STATUS: Early prototype
-DESCRIPTION: A small static hosted x86_64 Alpine linux vm with save/load fungtionality.
+DESCRIPTION: A small static hosted x86_64 Alpine linux vm with save/load functionality.
 NOTE: Early prototype, Not yet ready to deploy to github.
 TAGS: linux, system, web, terminal
 
