@@ -6,7 +6,7 @@
   Keep the backticks that surround the content.
 */
 window.PORTFOLIO_TEXT = `
-CURRENTLY: Doing Crazy stuff offline. back soon.
+CURRENTLY: Building AnomalyVM, a static hosted alpine virtual machine.
 
 
 # Add new projects above this line.
