@@ -6,7 +6,7 @@
   Keep the backticks that surround the content.
 */
 window.PORTFOLIO_TEXT = `
-CURRENTLY: No projects yet.
+CURRENTLY: Doing Crazy stuff offline. back soon.
 
 
 # Add new projects above this line.
